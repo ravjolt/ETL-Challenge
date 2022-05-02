@@ -21,4 +21,5 @@ Statcounter Global Stats. (2021). StatCounter. 			https://gs.statcounter.com/soc
 # Tools and Libraries
 
 Tools: Jupyter Notebook
+
 Libraries: Pandas
