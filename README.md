@@ -1,6 +1,10 @@
 # ETL-Challenge
 
-#The main goal of this project was to extract, transform, and load data that could be used for future analysis. 
+# Objective
+
+The main goal of this project was to extract, transform, and load data that could be used for future analysis. 
+
+# Datasets
 
 This project focused on social media and news data. The datasets pulled are listed below.
 
@@ -14,6 +18,7 @@ MorganMazer. (2017). How News Appears on Social Media: Comparing What’s on Twi
 
 Statcounter Global Stats. (2021). StatCounter. 			https://gs.statcounter.com/social-media-stats#monthly-200903-202112
 
-#Tools
+# Tools and Libraries
 
-The ETL process was conducted using Jupyter Notebook.
+Tools: Jupyter Notebook
+Libraries: Pandas
