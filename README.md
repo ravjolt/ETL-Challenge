@@ -2,7 +2,7 @@
 
 # Objective
 
-The main goal of this project was to extract, transform, and load data that could be used for future analysis. 
+The main goal of this project was to extract, transform, and load data onto a database (SQL) to be used for future analysis. 
 
 # Datasets
 
@@ -20,6 +20,6 @@ Statcounter Global Stats. (2021). StatCounter. 			https://gs.statcounter.com/soc
 
 # Tools and Libraries
 
-Tools: Jupyter Notebook
+Tools: Jupyter Notebook, PostgreSQL
 
-Libraries: Pandas
+Libraries: Pandas, Numpy, and datetime
