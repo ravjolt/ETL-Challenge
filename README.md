@@ -2,7 +2,16 @@
 
 # Objective
 
-The main goal of this project was to extract, transform, and load data onto a database (SQL) for furture analysis of behaviour based on social media. 
+ETL or Extract, Tranform, Load, is a strategy of which to gather data from mutiple sources into once central location. The extraction is the means of gatheirng the data from the different sources. Transformation is the means of cleaning the data or standardizing the data. Lastly, Loading is the means of loading or placing the transformed data into its new destination to for future queries and analysis.
+
+
+Project Goal:
+Social media has, in recent year, become more and more of a major factor in our everyday lives. It is used to commmunicate with family and friends, make new friends across the world, learn new cultures, etc. Social media allows us to keep up with each other in real time, all the time. This has it benefits and it downfalls. Here we wanted to understand the behaviours of those on social media based on the presence.
+
+This goal of this project is the following:
+1. Gather data related to behaviour on social media
+2. Transform the data
+3. Load the data into a database
 
 # Datasets
 
