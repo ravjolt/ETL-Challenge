@@ -27,5 +27,16 @@ Libraries: Pandas, Numpy, and datetime
 
 1. CSVs from the above listed sources were read and turned into tables in jupyter notebook
 2. Each table was cleaned for clarity and relevance
+
+![image](https://user-images.githubusercontent.com/89175197/185862244-4c308238-2307-4057-90f0-397970237459.png)
+![image](https://user-images.githubusercontent.com/89175197/185862333-f07be78b-3e37-49d0-a47b-6d34a5d76be2.png)
+![image](https://user-images.githubusercontent.com/89175197/185862602-b934d7e4-16be-421e-bae1-05ab3e4391e4.png)
+
+
 3. Tables with similar content were joined
-4. All tables were loaded into a SQL database using PostgreSQL
+![image](https://user-images.githubusercontent.com/89175197/185863052-74b9b7d2-94cf-408a-b840-6a5af2e8228f.png)
+![image](https://user-images.githubusercontent.com/89175197/185863220-0f406a0d-1eac-4f5c-85b8-d63b56cf49eb.png)
+
+4. All tables were loaded into a SQL database (PostgreSQL)
+![image](https://user-images.githubusercontent.com/89175197/185863357-ec90c3a8-25ed-41e1-bf98-3da2151e9c7d.png)
+
