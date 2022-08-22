@@ -2,7 +2,7 @@
 
 # Objective
 
-The main goal of this project was to extract, transform, and load data onto a database (SQL) to be used for future analysis. 
+The main goal of this project was to extract, transform, and load data onto a database (SQL) for furture analysis of behaviour based on social media. 
 
 # Datasets
 
@@ -23,3 +23,9 @@ Statcounter Global Stats. (2021). StatCounter. 			https://gs.statcounter.com/soc
 Tools: Jupyter Notebook, PostgreSQL
 
 Libraries: Pandas, Numpy, and datetime
+
+
+1. CSVs from the above listed sources were read and turned into tables in jupyter notebook
+2. Each table was cleaned for clarity and relevance
+3. Tables with similar content were joined
+4. All tables were loaded into a SQL database using PostgreSQL
